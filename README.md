@@ -6,6 +6,7 @@ This a python-wrapper lib to give cryptonight hashing functions for Sumo Easy Mi
 
 To complile on Linux:
 
+        sudo apt-get install python-dev
 	cd /path/to/cryptonight-hash-lib
 	cmake .
 	make
